@@ -6,7 +6,7 @@ API REST para gerenciamento de Pizzaria desenvolvida com Spring Boot.
 - Java 17
 - Spring Boot 3
 - Spring Data JPA
-- H2 Database
+- MySQL
 
 ## Endpoints
 - `GET /pizzas` - Lista todas as pizzas
